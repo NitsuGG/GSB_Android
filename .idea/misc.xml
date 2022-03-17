@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/activity_add_echantillon.xml" value="0.259375" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/activity_list_echantillon.xml" value="0.16" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/activity_liste_echantillon.xml" value="0.2" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/activity_majstock.xml" value="0.20364583333333333" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/layout/layout_list_entree.xml" value="0.4" />
+        <entry key="..\:/BTS SIO/Java/GSB_Android/app/src/main/res/menu/main.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
